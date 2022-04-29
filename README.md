@@ -6,7 +6,7 @@ R&D Engineer & Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jaymomaya95@gmail.com](mailto:jaymomaya95@gmail.com)
-* 🧠  I'm learning MicroFrontend in React
+* 🧠  I'm learning Micro-frontend in React
 
 ### Skills
 
